@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648885382277",
+    "project_id": "androidassignmentshashank",
+    "storage_bucket": "androidassignmentshashank.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648885382277:android:3e4edea2fad68727b5cdec",
+        "android_client_info": {
+          "package_name": "com.shashank.android_assignment_shashank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1tkC4cQH-K1LtYfRxRsFPA9uSrTCKQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
