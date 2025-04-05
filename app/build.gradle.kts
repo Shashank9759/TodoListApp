@@ -4,7 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 
     id("com.google.dagger.hilt.android")
-//    id("kotlin-kapt") // ✅ Fixed kapt
+//    id("kotlin-kapt") //  Fixed kapt
     id ("org.jetbrains.kotlin.kapt")
     id("com.google.gms.google-services")
     id("com.google.firebase.crashlytics") version "3.0.1" }

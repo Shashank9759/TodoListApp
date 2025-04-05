@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "648885382277",
-    "project_id": "androidassignmentshashank",
-    "storage_bucket": "androidassignmentshashank.firebasestorage.app"
+    "project_number": "457505186143",
+    "project_id": "android-assignment-shashank",
+    "storage_bucket": "android-assignment-shashank.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:648885382277:android:3e4edea2fad68727b5cdec",
+        "mobilesdk_app_id": "1:457505186143:android:8e2a63ba35182a7c44d6ea",
         "android_client_info": {
           "package_name": "com.shashank.android_assignment_shashank"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDH1tkC4cQH-K1LtYfRxRsFPA9uSrTCKQ8"
+          "current_key": "AIzaSyAflVEFnPHQ0YRcS6257ubVGJul0g7q5pY"
         }
       ],
       "services": {
