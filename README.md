@@ -85,7 +85,9 @@ I used **Hilt** to inject dependencies like the repository and database. This he
 
 
 ## Mobile screen recording of the crash
-https://github.com/Shashank9759/TodoListApp/blob/main/Screenrecorder-2025-04-05-17-26-58-183.mp4
+![Alt Text](https://github.com/Shashank9759/TodoListApp/blob/main/Screenrecorder-2025-04-05-17-26-58-183.mp4)
+
+
 
 
 ### Screenshots of the network performance.
