@@ -77,20 +77,16 @@ I used **Hilt** to inject dependencies like the repository and database. This he
 - 🧼 Keeping the codebase cleaner and scalable.
 
 ### Screenshot of the events on Firebase analytics console:
-![{A4D05C4C-3E32-493B-A788-191E9D3435AE}](https://github.com/user-attachments/assets/19fd1402-a4fd-4d9f-8547-718028dfd758)
+![{A4D05C4C-3E32-493B-A788-191E9D3435AE}](https://github.com/Shashank9759/TodoListApp/blob/main/Screenshot%20(4).png)
 
 ###  Screenshots of the crashes on the Firebase console.
-![{D734AFAA-5F01-4E25-A9AC-3142BCC383C3}](https://github.com/user-attachments/assets/1f6e164f-5204-4897-9689-368361e7645f)
+![{D734AFAA-5F01-4E25-A9AC-3142BCC383C3}](https://github.com/Shashank9759/TodoListApp/blob/main/Screenshot%20(6).png)
 
-## App Crash to test Firebase Crashlytics
-![{E2A59F0F-ACAC-4CE1-BBDA-52CD468CE55F}](https://github.com/user-attachments/assets/78ac8e76-4bf6-4610-a01d-da5793b21e0b)
 
-# DB Error Crash (Null Pointer Exception)
-![{3D1A21DE-6A0A-4450-A46F-2357C9561E38}](https://github.com/user-attachments/assets/0019ed18-41ed-4f2d-857c-9d26d6b7ef6c)
 
 ## Mobile screen recording of the crash
-https://github.com/user-attachments/assets/6fb5c565-5889-4911-9b2a-620da5a8e601
+https://github.com/Shashank9759/TodoListApp/blob/main/Screenrecorder-2025-04-05-17-26-58-183.mp4
 
 
 ### Screenshots of the network performance.
-![{21301D92-9325-4218-894E-4775B0327F13}](https://github.com/user-attachments/assets/f56a7656-9013-46cb-bd09-44db16622a59)
+![{21301D92-9325-4218-894E-4775B0327F13}](https://github.com/Shashank9759/TodoListApp/blob/main/Screenshot%20(5).png)
